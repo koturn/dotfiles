@@ -1,0 +1,7 @@
+# ignore all files and directories
+/*
+
+# But include fllowing files
+!/.gitignore
+!/LICENSE
+!/README.md
