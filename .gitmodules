@@ -1,3 +1,6 @@
 [submodule "vim-config"]
 	path = vim-config
 	url = https://github.com/koturn/vim-config.git
+[submodule ".vim"]
+	path = .vim
+	url = ./.vim
