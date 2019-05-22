@@ -1,6 +1,12 @@
+[submodule "tmux-config"]
+	path = tmux-config
+	url = https://github.com/koturn/tmux-config.git
+[submodule "shell-config"]
+	path = shell-config
+	url = https://github.com/koturn/shell-config.git
+[submodule "mintty-config"]
+	path = mintty-config
+	url = https://github.com/koturn/mintty-config.git
 [submodule "vim-config"]
 	path = vim-config
 	url = https://github.com/koturn/vim-config.git
-[submodule ".vim"]
-	path = .vim
-	url = ./.vim
